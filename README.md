@@ -1,7 +1,17 @@
 # gitclase
 Clase de git y markdown
 ## objetivos:
-1.Hola
-1.Buenos
-1.Dias
-1. 
+## Lista Numerada
+1. Hola
+1. Buenos
+1. Dias
+1. ppypyy
+   
+
+### Listano numerada
+* hola
+- chau
++ que tool
++ y
+* siempre lo mismo??
+* 
