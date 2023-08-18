@@ -16,7 +16,4 @@ Clase de git y markdown
 * siempre lo mismo??
 * buenas 
 hola :-)
-buenas
 
-***
-primmer commit
