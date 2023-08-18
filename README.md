@@ -1,3 +1,6 @@
 # gitclase
 Clase de git y markdown
-Cambios 
+objetivos:
+1.Hola
+1.Buenos
+1.Dias
