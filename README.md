@@ -9,9 +9,4 @@ Clase de git y markdown
    
 
 ### Listano numerada
-* hola
-- chau
-+ que tool
-+ y
-* siempre lo mismo??
-
+* Buenas noches america
