@@ -14,6 +14,4 @@ Clase de git y markdown
 + que tool
 + y
 * siempre lo mismo??
-* buenas 
-hola :-)
 
